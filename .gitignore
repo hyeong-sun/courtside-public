@@ -1,0 +1,5 @@
+node_modules/
+room-data/
+.env
+game-data.json
+*.tmp
